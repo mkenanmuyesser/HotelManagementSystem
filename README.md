@@ -11,3 +11,7 @@ Used technologies : Asp.Net, Silverlight, C#, Entity Framework, Ria services, WC
 This project is a complete software automation solution for hotels. It is a program designed for touch screens and used easily by drag and drop. 
 
 I had been part time consultant and developer in this project for 2 years.
+
+Minran Kenan MÜYESSER
+mkenanmuyesser@hotmail.com
+https://www.linkedin.com/in/minran-kenan-müyesser
